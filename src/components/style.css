@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}
+
+.table-title {
+    color: rgb(12, 243, 147);
+    text-shadow: 2px 2px black;
+    font-size: 100px;
+}
+
+table {
+    background-color: rgb(112, 193, 247);
+}
+
+th {
+    background-color: #829CD0;
+    font-weight: bold;
+}
